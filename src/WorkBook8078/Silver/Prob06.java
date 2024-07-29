@@ -1,6 +1,6 @@
+// 4659번 비밀번호 발음하기
 package WorkBook8078.Silver;
 
-import java.util.*;
 import java.io.*;
 
 public class Prob06 {
